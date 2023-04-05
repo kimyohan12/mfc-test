@@ -1,0 +1,2 @@
+﻿Practice4aDlg.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl CAboutDlg::OnRadio2(void)" (?OnRadio2@CAboutDlg@@QEAAXXZ)
+C:\Users\yohan\source\repos\Practice4a\x64\Debug\Practice4a.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
